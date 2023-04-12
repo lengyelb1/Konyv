@@ -1,0 +1,8 @@
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\bin\Debug\Osztaly_Konyv.exe.config
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\bin\Debug\Osztaly_Konyv.exe
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\bin\Debug\Osztaly_Konyv.pdb
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.csproj.AssemblyReference.cache
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.csproj.CoreCompileInputs.cache
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.exe
+C:\Users\Blackhood\Downloads\Konyv-master\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.pdb
